@@ -1,0 +1,27 @@
+<div class="pagination-container">
+  <div class="pagination-button-group pagination-start">
+    <button
+      (click)="previousPage()"
+      [disabled]="currentPage === 1"
+      class="pagination-button"
+    >
+      <span class="pagination-arrow">‹</span> Anterior
+    </button>
+  </div>
+
+  <div class="pagination-info">
+    <p class="pagination-text">
+      Página <span class="pagination-number">{{ currentPage }}</span> de <span class="pagination-number">{{ totalPages }}</span>
+    </p>
+  </div>
+
+  <div class="pagination-button-group pagination-end">
+    <button
+      (click)="nextPage()"
+      [disabled]="currentPage === totalPages"
+      class="pagination-button"
+    >
+      Próximo <span class="pagination-arrow">›</span>
+    </button>
+  </div>
+</div>

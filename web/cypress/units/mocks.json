@@ -1,0 +1,19 @@
+{
+    "status": "200",
+    "data": {
+    "tasks": [
+    {
+      "title": "Contribuinte Legal – Regularize Fácil",
+      "status": "Não iniciado"
+    },
+    {
+      "title": "Desenvolvimento da Plataforma Digital",
+      "status": "Não iniciado"
+    },
+        {
+      "title": "Fofinhos Developer",
+      "status": "Iniciado"
+    }
+  ]
+}
+}

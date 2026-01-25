@@ -1,0 +1,256 @@
+{
+  "data": {
+    "inscricoes": [
+      {
+        "nome": "Ana Paula Rodrigues da Silva",
+        "cpf": "197.092.390-31",
+        "empreendimento": {
+          "nome": "Residencial Jardins"
+        },
+        "situacao": "em_validacao"
+      },
+      {
+        "nome": "Carlos Eduardo Santos",
+        "cpf": "245.876.123-45",
+        "empreendimento": {
+          "nome": "Residencial Jardins"
+        },
+        "situacao": "selecionado"
+      },
+      {
+        "nome": "Mariana Oliveira Costa",
+        "cpf": "345.678.901-23",
+        "empreendimento": {
+          "nome": "Condomínio Vista Verde"
+        },
+        "situacao": "contemplado"
+      },
+      {
+        "nome": "João Pedro Almeida",
+        "cpf": "456.789.012-34",
+        "empreendimento": {
+          "nome": "Condomínio Vista Verde"
+        },
+        "situacao": "reserva"
+      },
+      {
+        "nome": "Fernanda Souza Lima",
+        "cpf": "567.890.123-45",
+        "empreendimento": {
+          "nome": "Parque dos Ipês"
+        },
+        "situacao": "invalidado"
+      },
+      {
+        "nome": "Ricardo Gomes Ferreira",
+        "cpf": "678.901.234-56",
+        "empreendimento": {
+          "nome": "Residencial Jardins"
+        },
+        "situacao": "em_validacao"
+      },
+      {
+        "nome": "Patrícia Mendes Oliveira",
+        "cpf": "789.012.345-67",
+        "empreendimento": {
+          "nome": "Condomínio Vista Verde"
+        },
+        "situacao": "selecionado"
+      },
+      {
+        "nome": "Lucas Pereira Santos",
+        "cpf": "890.123.456-78",
+        "empreendimento": {
+          "nome": "Parque dos Ipês"
+        },
+        "situacao": "contemplado"
+      },
+      {
+        "nome": "Juliana Costa Ribeiro",
+        "cpf": "901.234.567-89",
+        "empreendimento": {
+          "nome": "Residencial Jardins"
+        },
+        "situacao": "reserva"
+      },
+      {
+        "nome": "Marcos Antonio Silva",
+        "cpf": "012.345.678-90",
+        "empreendimento": {
+          "nome": "Condomínio Vista Verde"
+        },
+        "situacao": "invalidado"
+      },
+      {
+        "nome": "Amanda Souza Pereira",
+        "cpf": "123.456.789-01",
+        "empreendimento": {
+          "nome": "Parque dos Ipês"
+        },
+        "situacao": "em_validacao"
+      },
+      {
+        "nome": "Roberto Carlos Almeida",
+        "cpf": "234.567.890-12",
+        "empreendimento": {
+          "nome": "Residencial Jardins"
+        },
+        "situacao": "selecionado"
+      },
+      {
+        "nome": "Carolina Mendes Lima",
+        "cpf": "345.678.901-23",
+        "empreendimento": {
+          "nome": "Condomínio Vista Verde"
+        },
+        "situacao": "contemplado"
+      },
+      {
+        "nome": "Felipe Oliveira Costa",
+        "cpf": "456.789.012-34",
+        "empreendimento": {
+          "nome": "Parque dos Ipês"
+        },
+        "situacao": "reserva"
+      },
+      {
+        "nome": "Beatriz Santos Rodrigues",
+        "cpf": "567.890.123-45",
+        "empreendimento": {
+          "nome": "Residencial Jardins"
+        },
+        "situacao": "invalidado"
+      },
+      {
+        "nome": "Gustavo Henrique Pereira",
+        "cpf": "678.901.234-56",
+        "empreendimento": {
+          "nome": "Condomínio Vista Verde"
+        },
+        "situacao": "em_validacao"
+      },
+      {
+        "nome": "Isabela Fernandes Alves",
+        "cpf": "789.012.345-67",
+        "empreendimento": {
+          "nome": "Parque dos Ipês"
+        },
+        "situacao": "selecionado"
+      },
+      {
+        "nome": "Rafael Barbosa Martins",
+        "cpf": "890.123.456-78",
+        "empreendimento": {
+          "nome": "Residencial Jardins"
+        },
+        "situacao": "contemplado"
+      },
+      {
+        "nome": "Tatiane Oliveira Souza",
+        "cpf": "901.234.567-89",
+        "empreendimento": {
+          "nome": "Condomínio Vista Verde"
+        },
+        "situacao": "reserva"
+      },
+      {
+        "nome": "Daniel Costa Mendes",
+        "cpf": "012.345.678-90",
+        "empreendimento": {
+          "nome": "Parque dos Ipês"
+        },
+        "situacao": "invalidado"
+      },
+      {
+        "nome": "Larissa Pereira Gomes",
+        "cpf": "123.456.789-01",
+        "empreendimento": {
+          "nome": "Residencial Jardins"
+        },
+        "situacao": "em_validacao"
+      },
+      {
+        "nome": "Vinícius Rodrigues Almeida",
+        "cpf": "234.567.890-12",
+        "empreendimento": {
+          "nome": "Condomínio Vista Verde"
+        },
+        "situacao": "selecionado"
+      },
+      {
+        "nome": "Camila Santos Oliveira",
+        "cpf": "345.678.901-23",
+        "empreendimento": {
+          "nome": "Parque dos Ipês"
+        },
+        "situacao": "contemplado"
+      },
+      {
+        "nome": "Thiago Lima Costa",
+        "cpf": "456.789.012-34",
+        "empreendimento": {
+          "nome": "Residencial Jardins"
+        },
+        "situacao": "reserva"
+      },
+      {
+        "nome": "Vanessa Souza Pereira",
+        "cpf": "567.890.123-45",
+        "empreendimento": {
+          "nome": "Condomínio Vista Verde"
+        },
+        "situacao": "invalidado"
+      },
+      {
+        "nome": "Bruno Martins Ribeiro",
+        "cpf": "678.901.234-56",
+        "empreendimento": {
+          "nome": "Parque dos Ipês"
+        },
+        "situacao": "em_validacao"
+      },
+      {
+        "nome": "Natália Alves Fernandes",
+        "cpf": "789.012.345-67",
+        "empreendimento": {
+          "nome": "Residencial Jardins"
+        },
+        "situacao": "selecionado"
+      },
+      {
+        "nome": "Eduardo Gomes Santos",
+        "cpf": "890.123.456-78",
+        "empreendimento": {
+          "nome": "Condomínio Vista Verde"
+        },
+        "situacao": "contemplado"
+      },
+      {
+        "nome": "Priscila Oliveira Mendes",
+        "cpf": "901.234.567-89",
+        "empreendimento": {
+          "nome": "Parque dos Ipês"
+        },
+        "situacao": "reserva"
+      },
+      {
+        "nome": "Marcelo Costa Silva",
+        "cpf": "012.345.678-90",
+        "empreendimento": {
+          "nome": "Residencial Jardins"
+        },
+        "situacao": "invalidado"
+      }
+    ],
+    "meta": {
+      "total": 30,
+      "porPagina": 10,
+      "totalPaginas": 3,
+      "paginaAtual": 1,
+      "proximaPagina": 2,
+      "paginaAnterior": null,
+      "ultimaPagina": 3,
+      "primeiraPagina": 1
+    }
+  }
+}

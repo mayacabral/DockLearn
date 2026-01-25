@@ -1,0 +1,40 @@
+.container{
+  // width: 100%;
+  width: -webkit-fill-available;
+  height: 3.5rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2rem;
+  position: fixed;
+  bottom: 0;
+  background-color: white;
+  z-index: 1;
+
+  .side-left{
+    display: flex;
+    gap: 0.625rem;
+
+    span{
+      font-family: 'Inter', sans-serif;
+      font-weight: 400;
+      font-size: 0.875rem;
+      line-height: 1.25rem;
+      color: black;
+    }
+
+    img{
+      width: 2.84rem;
+      height: 1.5rem;
+    }
+  }
+
+  .side-right{
+    span{
+      font-family: 'Inter', sans-serif;
+      font-weight: 400;
+      font-size: 0.875rem;
+      line-height: 1.25rem;
+      color: black;
+    }
+  }
+}

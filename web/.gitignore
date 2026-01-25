@@ -1,0 +1,51 @@
+# Node.js / NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Angular
+dist/
+.tmp/
+.angular/
+.cache/
+
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# Build
+coverage/
+*.log
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
+
+# Sistema
+Thumbs.db
+
+# Configurações específicas do projeto
+/src/environments/environment.ts
+/src/environments/environment.prod.ts
+
+# Arquivos de lock alternativos
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Arquivos de configuração local
+/config/*.local.*
+
+# Arquivos gerados pelo Angular CLI
+*.ngsummary.json
+*.ngfactory.ts
+src/app/features/inscricoes/components/detalhes/deatalhes.ts

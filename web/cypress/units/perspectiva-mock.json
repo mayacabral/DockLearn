@@ -1,0 +1,431 @@
+{
+  "status": "200",
+  "data": {
+    "perspectivas": [
+      {
+        "id": 1,
+        "status": {
+          "title": "Em andamento",
+          "tag": "em-andamento"
+        },
+        "title": "Expansão de Mercado",
+        "description": "Aumentar a presença da empresa em novas regiões",
+        "area": "Comercial",
+        "local": "São Paulo",
+        "localIcone": "location-icon",
+        "dataIcone": "calendar-icon",
+        "dataCriacao": "2023-01-15T00:00:00.000Z",
+        "objetivos": [
+          {
+            "id": 101,
+            "title": "Abrir 5 novas filiais",
+            "status": "Atrasado",
+            "dataLimite": "2025-07-01T00:00:00.000Z",
+            "responsavel": "Maria Silva",
+            "iniciativas": [
+              {
+                "id": 1001,
+                "title": "Capitar financeiro",
+                "description": "Identificar regiões estratégicas para expansão. Esta etapa envolve analisar diferentes localidades para encontrar os melhores pontos de atuação, considerando fatores como demanda de mercado, logística e potencial de crescimento.",
+                "status": "Atrasado",
+                "dataLimite": "2023-03-31T00:00:00.000Z",
+                "responsavel": "Raquel Mistoque",
+                "IAcoes": [
+                  {
+                    "id": 10001,
+                    "title": "Pesquisa de mercado",
+                    "status": "Concluído",
+                    "dataLimite": "2023-02-15T00:00:00.000Z",
+                    "responsavel": "Ana Costa",
+                    "ITarefas": [
+                      {
+                        "id": 100001,
+                        "title": "Coletar dados demográficos no local",
+                        "status": "Concluído",
+                        "dataLimite": "2023-01-31T00:00:00.000Z",
+                        "responsavel": "João Santos"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "title": "Migrar para sistema em nuvem",
+            "status": "Em andamento",
+            "dataLimite": "2025-09-01T00:00:00.000Z",
+            "responsavel": "Fofo Lisardo",
+            "iniciativas": [
+              {
+                "id": 1001,
+                "title": "Seleção de provedor",
+                "description": "Identificar regiões estratégicas para expansão de infraestrutura em nuvem, avaliando fatores como conectividade, segurança e potencial de crescimento tecnológico.",
+                "status": "Em andamento",
+                "dataLimite": "2023-03-31T00:00:00.000Z",
+                "responsavel": "Juliana Mendes",
+                "IAcoes": [
+                  {
+                    "id": 10001,
+                    "title": "Construção da insfraestrutura em nuvem",
+                    "status": "Suspenso",
+                    "dataLimite": "2023-02-15T00:00:00.000Z",
+                    "responsavel": "Ana Michele",
+                    "ITarefas": [
+                      {
+                        "id": 100001,
+                        "title": "Exportar os dados do sistema atual",
+                        "status": "Suspenso",
+                        "dataLimite": "2023-01-31T00:00:00.000Z",
+                        "responsavel": "Yara Santos"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 103,
+            "title": "Certificar 20 novos desenvolvedores",
+            "status": "Concluído",
+            "dataLimite": "2025-07-01T00:00:00.000Z",
+            "responsavel": "Rafael Rosa",
+            "iniciativas": [
+              {
+                "id": 1001,
+                "title": "Visão de locais",
+                "description": "Identificar regiões estratégicas para expansão, considerando fatores como demanda de profissionais, proximidade de centros de formação e potencial de crescimento para a equipe de desenvolvedores.",
+                "status": "Atrasado",
+                "dataLimite": "2023-03-31T00:00:00.000Z",
+                "responsavel": "Jadeh Brum",
+                "IAcoes": [
+                  {
+                    "id": 10001,
+                    "title": "Pesquisa de Sistemas",
+                    "status": "Concluído",
+                    "dataLimite": "2023-02-15T00:00:00.000Z",
+                    "responsavel": "Rafael Rosa",
+                    "ITarefas": [
+                      {
+                        "id": 100001,
+                        "title": "Entrevistar e contratar os desenvolvedores",
+                        "status": "Em andamento",
+                        "dataLimite": "2023-01-31T00:00:00.000Z",
+                        "responsavel": "Rafael Rosa"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 104,
+            "title": "Comprar 5 novos servidores",
+            "status": "Não iniciado",
+            "dataLimite": "2025-11-01T00:00:00.000Z",
+            "responsavel": "Malu Malus",
+            "iniciativas": [
+              {
+                "id": 1001,
+                "title": "Seleção de Máquinas",
+                "description": "Identificar as melhores maquinas para atender às necessidades de expansão, considerando fatores como capacidade de processamento, eficiência energética e compatibilidade com a infraestrutura existente.",
+                "status": "Não iniciado",
+                "dataLimite": "2023-03-31T00:00:00.000Z",
+                "responsavel": "Liryel Yel",
+                "IAcoes": [
+                  {
+                    "id": 10004,
+                    "title": "Realizar teste de desempenho",
+                    "status": "Em andamento",
+                    "dataLimite": "2023-02-15T00:00:00.000Z",
+                    "responsavel": "Paulo Ricardo",
+                    "ITarefas": [
+                      {
+                        "id": 100001,
+                        "title": "Instalar e configurar os servidores",
+                        "status": "Suspenso",
+                        "dataLimite": "2023-01-31T00:00:00.000Z",
+                        "responsavel": "João Santos"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 105,
+            "title": "Montar um espaço de lazer para os colaboradores",
+            "status": "Suspenso",
+            "dataLimite": "2026-04-01T00:00:00.000Z",
+            "responsavel": "Liryel Yel",
+            "iniciativas": [
+              {
+                "id": 1001,
+                "title": "Seleção de locais",
+                "description": "Identificar regiões estratégicas para expansão, considerando fatores como acessibilidade, interesse dos colaboradores e viabilidade de implementação do espaço de lazer.",
+                "status": "Concluído",
+                "dataLimite": "2023-03-31T00:00:00.000Z",
+                "responsavel": "Carlos Oliveira",
+                "IAcoes": [
+                  {
+                    "id": 10004,
+                    "title": "Atividades recreativas",
+                    "status": "Em andamento",
+                    "dataLimite": "2023-02-15T00:00:00.000Z",
+                    "responsavel": "Liryel Yel",
+                    "ITarefas": [
+                      {
+                        "id": 100001,
+                        "title": "Aula de dança - Funk/SambaRock/Forró - Instrutora",
+                        "status": "Em andamento",
+                        "dataLimite": "2023-01-31T00:00:00.000Z",
+                        "responsavel": "Liryel Yel"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "status": {
+          "title": "Concluído",
+          "tag": "concluido"
+        },
+        "title": "Modernização TI",
+        "description": "Atualizar infraestrutura de tecnologia",
+        "local": "Rio de Janeiro",
+        "localIcone": "location-icon",
+        "dataIcone": "calendar-icon",
+        "dataCriacao": "2022-08-10T00:00:00.000Z",
+        "objetivos": [
+          {
+            "id": 201,
+            "title": "Migrar para nuvem",
+            "status": "Concluído",
+            "dataLimite": "2024-01-30T00:00:00.000Z",
+            "responsavel": "Pedro Almeida",
+            "iniciativas": [
+              {
+                "id": 2001,
+                "title": "Seleção de provedor",
+                "description": "Escolher fornecedor de serviços em nuvem",
+                "status": "Concluído",
+                "dataLimite": "2022-10-15T00:00:00.000Z",
+                "responsavel": "Fernanda Lima",
+                "IAcoes": [
+                  {
+                    "id": 20001,
+                    "title": "Avaliar opções",
+                    "status": "Concluído",
+                    "dataLimite": "2022-09-30T00:00:00.000Z",
+                    "responsavel": "Ricardo Souza",
+                    "ITarefas": [
+                      {
+                        "id": 200001,
+                        "title": "Comparar custos",
+                        "status": "Concluído",
+                        "dataLimite": "2022-09-15T00:00:00.000Z",
+                        "responsavel": "Patrícia Rocha"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "status": {
+          "title": "Não iniciado",
+          "tag": "nao-iniciado"
+        },
+        "title": "Treinamento de Equipe",
+        "description": "Capacitar colaboradores em novas tecnologias",
+        "local": "Belo Horizonte",
+        "localIcone": "location-icon",
+        "dataIcone": "calendar-icon",
+        "dataCriacao": "2023-03-01T00:00:00.000Z",
+        "objetivos": [
+          {
+            "id": 301,
+            "title": "Certificar 20 desenvolvedores",
+            "status": "Não iniciado",
+            "dataLimite": "2026-06-30T00:00:00.000Z",
+            "responsavel": "Juliana Mendes",
+            "iniciativas": [
+              {
+                "id": 3001,
+                "title": "Seleção de cursos",
+                "description": "Identificar cursos relevantes para a equipe",
+                "status": "Não iniciado",
+                "dataLimite": "2023-03-20T00:00:00.000Z",
+                "responsavel": "Marcos Antônio",
+                "IAcoes": [
+                  {
+                    "id": 30001,
+                    "title": "Pesquisar instituições",
+                    "status": "Não iniciado",
+                    "dataLimite": "2023-03-10T00:00:00.000Z",
+                    "responsavel": "Luísa Fernandes",
+                    "ITarefas": [
+                      {
+                        "id": 300001,
+                        "title": "Listar opções disponíveis",
+                        "status": "Não iniciado",
+                        "dataLimite": "2023-03-05T00:00:00.000Z",
+                        "responsavel": "Gustavo Henrique"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "status": {
+          "title": "Suspenso",
+          "tag": "suspenso"
+        },
+        "title": "Sustentabilidade",
+        "description": "Reduzir impacto ambiental das operações",
+        "local": "Curitiba",
+        "localIcone": "location-icon",
+        "dataIcone": "calendar-icon",
+        "dataCriacao": "2023-02-15T00:00:00.000Z",
+        "objetivos": [
+          {
+            "id": 401,
+            "title": "Reduzir consumo de energia",
+            "status": "Suspenso",
+            "dataLimite": "2023-09-30T00:00:00.000Z",
+            "responsavel": "Roberto Castro",
+            "iniciativas": [
+              {
+                "id": 4001,
+                "title": "Troca de equipamentos",
+                "description": "Substituir equipamentos antigos por modelos mais eficientes",
+                "status": "Suspenso",
+                "dataLimite": "2023-05-31T00:00:00.000Z",
+                "responsavel": "Sandra Vieira",
+                "IAcoes": [
+                  {
+                    "id": 40001,
+                    "title": "Identificar equipamentos ineficientes",
+                    "status": "Concluído",
+                    "dataLimite": "2023-03-01T00:00:00.000Z",
+                    "responsavel": "Daniel Martins",
+                    "ITarefas": [
+                      {
+                        "id": 400001,
+                        "title": "Auditoria energética",
+                        "status": "Concluído",
+                        "dataLimite": "2023-02-28T00:00:00.000Z",
+                        "responsavel": "Amanda Lopes"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]},{
+            "id": 402,
+            "title": "Reduzir consumo de energia",
+            "status": "Suspenso",
+            "dataLimite": "2023-09-30T00:00:00.000Z",
+            "responsavel": "Roberto Castro",
+            "iniciativas": [
+              {
+                "id": 4001,
+                "title": "Troca de equipamentos",
+                "description": "Substituir equipamentos antigos por modelos mais eficientes",
+                "status": "Suspenso",
+                "dataLimite": "2023-05-31T00:00:00.000Z",
+                "responsavel": "Sandra Vieira",
+                "IAcoes": [
+                  {
+                    "id": 40001,
+                    "title": "Identificar equipamentos ineficientes",
+                    "status": "Concluído",
+                    "dataLimite": "2023-03-01T00:00:00.000Z",
+                    "responsavel": "Daniel Martins",
+                    "ITarefas": [
+                      {
+                        "id": 400001,
+                        "title": "Auditoria energética",
+                        "status": "Concluído",
+                        "dataLimite": "2023-02-28T00:00:00.000Z",
+                        "responsavel": "Amanda Lopes"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "status": {
+          "title": "Atrasado",
+          "tag": "atrasado"
+        },
+        "title": "Novo Produto",
+        "description": "Desenvolver solução inovadora para o mercado",
+        "local": "Porto Alegre",
+        "localIcone": "location-icon",
+        "dataIcone": "calendar-icon",
+        "dataCriacao": "2022-11-20T00:00:00.000Z",
+        "objetivos": [
+          {
+            "id": 501,
+            "title": "Lançar MVP",
+            "status": "Em andamento",
+            "dataLimite": "2024-04-15T00:00:00.000Z",
+            "responsavel": "Eduardo Pereira",
+            "iniciativas": [
+              {
+                "id": 5001,
+                "title": "Desenvolvimento do protótipo",
+                "description": "Criar versão inicial do produto para testes",
+                "status": "Atrasado",
+                "dataLimite": "2023-02-28T00:00:00.000Z",
+                "responsavel": "Tatiana Neves",
+                "IAcoes": [
+                  {
+                    "id": 50001,
+                    "title": "Definir especificações",
+                    "status": "Concluído",
+                    "dataLimite": "2022-12-15T00:00:00.000Z",
+                    "responsavel": "Felipe Cardoso",
+                    "ITarefas": [
+                      {
+                        "id": 500001,
+                        "title": "Reunir requisitos com clientes",
+                        "status": "Concluído",
+                        "dataLimite": "2022-12-01T00:00:00.000Z",
+                        "responsavel": "Vanessa Dias"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
