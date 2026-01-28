@@ -15,15 +15,16 @@ COPY . .
 # Use npm run build to execute command from package.json
 RUN npm run build -- --configuration=${ENVIRONMENT}
 
+
 # --- Production stage (nginx) ---
 FROM nginx:stable-alpine
 
 # 1. Copy built files from build stage
 COPY --from=build /usr/app/dist /usr/share/nginx/html
 
-
 # 3. Fix permissions for nginx
 RUN chown -R nginx:nginx /usr/share/nginx/html
 
 EXPOSE 80
+
 CMD ["nginx", "-g", "daemon off;"]
